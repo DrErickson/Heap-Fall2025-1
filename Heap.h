@@ -15,7 +15,7 @@ public:
 private:
     int max_size;   // maximum size of the heap
     int size;       // number of elements in the heap
-    T *elements;  // array
+    T *elements;    // array
 };
 
 
